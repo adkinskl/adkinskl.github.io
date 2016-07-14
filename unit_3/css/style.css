@@ -13,3 +13,12 @@ h1, p {
 #slogan{
 	font-style: italic;
 }
+
+ul {
+    text-align: center;
+    list-style-type: none;
+}
+
+a {
+	color: #fff;
+}

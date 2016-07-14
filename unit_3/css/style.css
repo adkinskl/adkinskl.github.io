@@ -1,0 +1,15 @@
+body {
+	background: url("/images/gd.jpg");
+	color: #fff;
+	font-family: Helvetica, sans-serif;
+	text-align: center;
+}
+
+h1, p {
+	color: #e58f14;
+	font-weight: bold;
+}
+
+#slogan{
+	font-style: italic;
+}

@@ -14,6 +14,8 @@ h1 {
 #slogan{
 	color: #e58f14;
 	font-style: italic;
+	font-size: 20px;
+	margin-bottom: 50px;
 }
 
 ul {

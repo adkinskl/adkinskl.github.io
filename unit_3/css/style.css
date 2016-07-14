@@ -6,9 +6,10 @@ body {
 	text-align: center;
 }
 
-h1, p {
+h1 {
 	color: #e58f14;
 	font-weight: bold;
+	margin-top: 40px;
 }
 
 #slogan{

@@ -7,18 +7,22 @@ body {
 }
 
 h1 {
-	color: #e58f14;
 	font-weight: bold;
-	margin-top: 40px;
+	margin-top: 100px;
 }
 
 #slogan{
+	color: #e58f14;
 	font-style: italic;
 }
 
 ul {
     text-align: center;
     list-style-type: none;
+}
+
+li {
+	line-height: 18px;
 }
 
 a {

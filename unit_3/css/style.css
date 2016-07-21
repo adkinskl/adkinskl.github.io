@@ -1,30 +1,49 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway:900,500);
+@import url(https://fonts.googleapis.com/css?family=Lora:400,400italic,700,700italic);
+
+*, 
+*:before, 
+*:after {  
+	margin: 0;
+	padding: 0;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
 body {
 	background-image: url("../images/gd.jpg");
   	background-size: cover;
+  	background-repeat: no-repeat;
 	color: #fff;
-	font-family: Helvetica, sans-serif;
+	font-family: 'Lora', serif;
 	text-align: center;
 }
 
 h1 {
-	font-weight: bold;
+	font-family: 'Raleway', sans-serif;
+	font-weight: 900;
 	margin-top: 100px;
 }
 
 #slogan{
 	color: #e58f14;
 	font-style: italic;
+	font-family: 'Lora', serif;
 	font-size: 20px;
 	margin-bottom: 50px;
 }
 
 ul {
+    font-family: 'Lora', serif;
     text-align: center;
     list-style-type: none;
 }
 
 li {
-	line-height: 18px;
+	font-family: 'Raleway', sans-serif;
+	font-weight: 900;
+	line-height: 24px;
 }
 
 a {

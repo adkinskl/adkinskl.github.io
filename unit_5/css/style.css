@@ -1,0 +1,94 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway:900,500);
+@import url(https://fonts.googleapis.com/css?family=Lora:400,400italic,700,700italic);
+
+*, 
+*:before, 
+*:after{  
+	margin: 0;
+	padding: 0;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+a{
+	color: #95d2df;
+	text-decoration: none;
+}
+
+article {
+    background-color: #E89C6C;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+body{
+	color: #999;
+	font-family: 'Lora', serif;
+	font-size: 18px;
+	text-align: center;
+}
+
+footer {
+    background-color: #FF957E;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+h1{
+	font-family: 'Raleway', sans-serif;
+	font-weight: 900;
+	font-size: 22px;
+	text-transform: uppercase;
+	letter-spacing: .2em;
+	padding: 20px;
+}
+
+header {
+    background-color: #FFED74;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+li{
+	color: #95d2df;
+	font-family: 'Raleway', sans-serif;
+	font-size: 16px;
+	font-weight: 500;
+	text-transform: uppercase;
+	letter-spacing: .15em;
+	line-height: 40px;
+}
+
+nav {
+    background-color: #E8C66A;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+section {
+    background-color: #FFE2B8;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+#slogan{
+	color: #fbe630;
+	font-style: italic;
+	font-family: 'Lora', serif;
+	font-size: 25px;
+}
+
+#social-media img{
+	padding: 10px;
+}
+
+
+#footer{
+	font-size:12px;
+	margin-top: 50px;
+}
+
+#work-thumbnails img{
+	padding: 10px;
+}

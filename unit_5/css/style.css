@@ -1,6 +1,12 @@
 @import url(https://fonts.googleapis.com/css?family=Raleway:900,500);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,400italic,700,700italic);
 
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
 a {
 	color: #95d2df;
 	text-decoration: none;

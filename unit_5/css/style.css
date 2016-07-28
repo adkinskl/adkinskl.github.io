@@ -50,6 +50,10 @@ header {
     padding: 20px;
 }
 
+header img{
+	width: 1240px;
+}
+
 li{
 	color: #95d2df;
 	font-family: 'Raleway', sans-serif;
@@ -84,7 +88,7 @@ section {
 }
 
 
-#footer{
+#copyright{
 	font-size:12px;
 	margin-top: 50px;
 }

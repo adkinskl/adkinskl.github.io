@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Krista Adkins</title>
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+	<link rel="stylesheet" type="text/css" href="reset.css">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
+	<section id="two_column" class="clearfix">
+		<nav id="left">
+			<img title="Krista Adkins" src="images/logo.png">
+			<ul>
+				<li><a href="#">Work</a></li>
+				<li><a href="#">About</a></li>
+				<li><a href="mailto:kristaadkins6@gmail.com">Contact</a></li>
+			</ul>
+		</nav>
+		<header id="right">
+			<h1>EULE BOUTIQUE</h1>
+			<p><a href="#">Logo and Identity Development</a></p>
+		</header>
+	</section>
+	<footer>
+		<p>Created by Krista Adkins &nbsp; | &nbsp; All Rights Reserved </p>
+	</footer>
+</body>
+</html>

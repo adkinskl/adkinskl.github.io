@@ -92,14 +92,29 @@ section {
 	min-height: 500px;
 }
 
-#right h1{
+#right h1 {
 	color: #fff;
 	margin: 25px 0px;
 }
 
-#right a{
+#right a {
 	border-top: 1px #95d2df solid;
 	padding: 10px 0px;
+}
+
+#right_work {
+	padding-top:40px;
+	float: right;
+	width: 77%;
+}
+
+#right_work a {
+	border-top: 1px #95d2df solid;
+	padding: 10px 0px;
+}
+
+#right_description p {
+	padding: 40px;
 }
 
 #social-media img {
@@ -112,6 +127,16 @@ section {
 	margin: 25px 0px;
 }
 
+#tags img{
+	width: 321px;
+}
+
+#eule_images {
+	padding: 30px 20px;
+	max-width: 600px;
+	margin: auto;
+}
+
 .clearfix:after {
 	visibility: hidden;
     display: block;
@@ -121,8 +146,9 @@ section {
     height: 0;
 }
 
+
 @media (max-width: 1300px) {
-  #right {
+  #right, #right_work {
 	max-width: 70%;
   }
 }
@@ -151,6 +177,12 @@ section {
 	text-align: center;
   }
   #right {
+  	float: none;
+  	min-width: 100%;
+  }
+
+  #right_work {
+  	border-top: 1px solid #f3f3f3;
   	float: none;
   	min-width: 100%;
   }
